@@ -50,8 +50,8 @@ export default function DarkPortfolio() {
       technologies: ["Next.js", "Supabase", "Tailwind CSS"],
       image:
         "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&q=80",
-      liveUrl: "https://sasslaunchpad-two.vercel.app",
-      githubUrl: "https://github.com/crestedweb/saas",
+      liveUrl: "https://saaspad-iota.vercel.app/",
+      githubUrl: "https://github.com/crestedweb/saaspad",
     },
     {
       id: 3,
